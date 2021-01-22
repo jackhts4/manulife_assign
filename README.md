@@ -1,6 +1,10 @@
+How to use <br/>
 git clone the repo <br/>
 install docker <br/>
 run docker-compose up<br/>
+
+Port 3000 will be used for the app <br/>
+Port 27017 will be used for mongo <br/>
 
 Example HTTP method:<br/>
 
